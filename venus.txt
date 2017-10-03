@@ -1,3 +1,8 @@
 warmer planet. better place to live. 
 women are from here. 
+<<<<<<< HEAD
 Yeah...Nepton is so cold!!
+=======
+uh oh... conflict.
+
+>>>>>>> dab9915127c5b99e75a67cb69b00aab7f5a52b13
